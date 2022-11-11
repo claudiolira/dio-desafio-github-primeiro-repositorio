@@ -1,0 +1,26 @@
+Git
+
+O Git é um sistema capaz de controlar versões de códigos. Alterações realizadas em 
+um arquivo ou em vários, são registradas ao longo do tempo. Isso nos permite retornar 
+em versões anteriores, caso precisemos de alguma informação que se perdeu após o
+código em desenvolvimento sofrer atualizações.
+
+Os três estágios das versões são:
+
+Modified
+Staged
+Committed
+
+Atenção: Leia mais sobre GIT na documentação, acesse o README.
+
+Github
+
+O Github, embora confundido como familiaridade direta com o Git, os dois não são a mesma coisa.
+Repositórios que são criados em diversas ferramentas são armazenados nele, até os próprios 
+repositórios do próprio Github. Além disso, a plataforma do Github traz uma porção de funcionalidades
+e interações, entre tantas, o mais legal é poder interagir com os repositórios de outros desenvolvedores.
+E isso é demais, podemos desenvolver a capacidade de trabalho em equipe, mesmo não estando diretamente
+ligados em uma empresa.
+
+Atenção: Leia mais sobre GITHUB na documentação, acesse o README. 
+
